@@ -1,9 +1,9 @@
 # gradiant-text-border-expo
 
-### start
+## start
 expo start
 
-###linear gradiant border for text
+## linear gradiant border for text
 
 ```
 <Svg style={styles.popular}>
